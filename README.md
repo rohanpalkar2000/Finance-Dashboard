@@ -61,5 +61,10 @@ The dashboard includes:
 - Automation of real-time data updates.
 
 ## **Screenshots**
+![Executive summary](https://github.com/user-attachments/assets/327c7d49-0a4c-428d-9976-44787b702c78)
+![sales](https://github.com/user-attachments/assets/def9ce65-8f77-477d-bb8e-29d58aa27b74)
+![profit](https://github.com/user-attachments/assets/4f6c7a78-78ac-48ec-908d-c7922e177c13)
+![Revenue   Expense](https://github.com/user-attachments/assets/36920ce2-dad5-434a-969b-0e8deba6e9a3)
+![Revenue Breckdown](https://github.com/user-attachments/assets/183837ef-0f1a-44ec-ac6d-87bdb9fc9ee2)
 
 
