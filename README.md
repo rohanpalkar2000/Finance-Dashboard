@@ -32,8 +32,12 @@ This Financial Dashboard provides a comprehensive view of a company's financial 
    - Quarterly and yearly profit trends.
 
 6. **Expense Breakdown**:
-   - Total expenses broken down by segment and month.
-   - **Peak Expense Month**: November with $18M.
+   1. **Expense Categories**:
+   - November has the highest expenses (**$18M**), likely due to end-of-year operations or marketing campaigns.
+   - Minimal expenses in February and March suggest cost-saving efforts during this period.
+   2. **Segment-Wise Expense Management**:
+   - The **Midmarket** segment has minimal expenses compared to others, indicating underutilization or low focus.
+
 
 ## **Visualizations**
 The dashboard includes:
